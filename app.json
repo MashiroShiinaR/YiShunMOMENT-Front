@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/userLogin/login",
+    "pages/index/index",
+    "pages/videoinfo/videoinfo",
+    
+    "pages/chooseBgm/chooseBgm",
+    "pages/mine/mine",
+    "pages/userRegist/regist"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "一瞬MOMENT",
+    "navigationBarTextStyle":"black"
+  },
+  "debug": true
+}
